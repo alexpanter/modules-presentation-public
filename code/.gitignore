@@ -1,0 +1,9 @@
+gcm.cache
+*.o
+quick_test
+import_test
+loglib_test
+disable_test
+disable_test_release
+*.asm
+file_and_line_test
